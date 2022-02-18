@@ -7,4 +7,4 @@
 - 📫 How to reach me: atiegardelali@gmail.com
 - ⚡ Fun fact: Out of nothing comes nothing.
 
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simondelali&show_icons=true)
+![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simondelali&show_icons=true&theme=merko)
