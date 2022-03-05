@@ -5,7 +5,7 @@
 - 🌱 I’m interested in learning Data Science
 - 👯 I’m looking to collaborate on any project you are working on
 - 📫 How to reach me: atiegardelali@gmail.com
-- ⚡ Fun fact: Out of nothing comes nothing
+- ⚡ Fun fact: Out of nothing comes nothing.
 
 ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simondelali&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simondelali&layout=compact)](https://github.com/simondelali/github-readme-stats)
