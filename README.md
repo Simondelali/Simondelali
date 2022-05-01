@@ -1,8 +1,9 @@
 ### Hi, Simon here 👋
 
 <p align="center">
-  <img src="https://github.com/RansfordGenesis/RansfordGenesis/blob/main/dev.jpg" alt="Dev" width ="450px" height="250px">
+  <img src="https://github.com/Simondelali/Simondelali/blob/main/web-developers.jpg" alt="Dev" width ="450px" height="250px">
 </p>
+
 - 🔭 I’m currently working on some cool projects
 - 🌱 I’m interested in learning Data Science
 - 👯 I’m looking to collaborate on any project you are working on
