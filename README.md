@@ -1,6 +1,6 @@
 ### Hi, Simon here 👋
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/Simondelali/Simondelali/blob/main/web-developers.jpg" alt="Dev" width ="450px" height="250px">
 </p>
 
