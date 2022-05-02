@@ -13,7 +13,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simondelali&show_icons=true&theme=merko" alt="simondelali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simondelali&" alt="simondelali" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simondelali&layout=compact)](https://github.com/simondelali/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simondelali&layout=compact)](https://github.com/simondelali/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
