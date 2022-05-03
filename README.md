@@ -2,7 +2,7 @@
 
 <!--<p align="left">
   <img src="https://github.com/Simondelali/Simondelali/blob/main/web-developers.jpg" alt="Dev" width ="450px" height="250px">
-</p>-->
+</p>-->     
 
 - 🔭 I’m currently working on some cool projects
 - 🌱 I’m interested in learning Data Science
