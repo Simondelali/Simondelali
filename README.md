@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simondelali&layout=compact)](https://github.com/simondelali/github-readme-stats)
 
-
+      
      
 
 <h3 align="left">Connect with me:</h3>      
