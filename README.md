@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Out of nothing comes nothing.      
 
 <!---![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simondelali&show_icons=true&theme=merko)--> 
-<!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simondelali&" alt="simondelali" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simondelali&" alt="simondelali" /></p> 
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simondelali&layout=compact)](https://github.com/simondelali/github-readme-stats)--->
     
