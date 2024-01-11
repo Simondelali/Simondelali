@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on some cool projects
 - 👯 I’m looking to collaborate on any project you are working on  
 - 📫 How to reach me: atiegardelali@gmail.com      
-- ⚡ Fun fact: Good food needs time to be cooked.
+- ⚡ Fun fact: Good food needs time to be cooked.   
 
 <!---![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simondelali&show_icons=true&theme=merko)--> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simondelali&" alt="simondelali" /></p> 
