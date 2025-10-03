@@ -9,6 +9,8 @@
 sudo apt install curl -y
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 E: Option -o-: Configuration item specification must have an =<val>.
+sudo apt install curl -y
+curl -fsSL https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 <!---![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simondelali&show_icons=true&theme=merko)--> 
 <!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simondelali&" alt="simondelali" /></p> 
 
