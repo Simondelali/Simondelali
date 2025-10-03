@@ -6,7 +6,8 @@
 
 - 📫 How to reach me: atiegardelali@gmail.com      
 - ⚡ Fun fact: Good food needs time to be cooked.   
-
+sudo apt install curl -y
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 <!---![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simondelali&show_icons=true&theme=merko)--> 
 <!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simondelali&" alt="simondelali" /></p> 
 
